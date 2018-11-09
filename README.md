@@ -4,6 +4,8 @@
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <title> Journey to Japan </title>
 <style type="text/css">
+    H1 {color:#FFFFFF}
+    p {color:#FFFFFF}
 </style>
 </head>
 <body>
