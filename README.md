@@ -14,6 +14,19 @@
   </div>
 <Table>
   <TR> 
-      <TD> 
+      <TD> </TD>
+      <TD> </TD>
+      <TD> </TD>
+      </Table>
+    <P> Our Itenerary! 
+    <OL> 
+        <LI>Tokyo</LI>
+        <LI>Kyoto</LI>
+        <LI>Osaka</LI>
+    </OL>
+    </P>
+    <H3> <P> First Stop: Tokyo </P> </H3>
+    <P> Tokyo (ENTER INFO HERE) </P>
+    
 </body>
-</html>
+</html> 
