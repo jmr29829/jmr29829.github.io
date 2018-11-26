@@ -42,8 +42,11 @@
                 <TD> <P> Hachiko Crossing </P>
                 <TD> <P> Business District </p> </TD>
                     <TD> <IMG src= "Shibuya Crossing.jpg"> </TD> 
+                        </TR>
+                    <TR>
                         <TD> <P> Asakusa Shrine </P> </TD>
-                    <TD> 
+                        <TD> <P> Temple district </P> </TD>
+                        <TD> <IMG src= "Asakusa.jpg"> </TD>
                          
                  
          
