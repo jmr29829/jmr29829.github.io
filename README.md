@@ -25,7 +25,7 @@
         <LI>Osaka</LI>
     </OL>
     </P>
-    <H3> <P> First Stop: Tokyo </P> </H3>
+    <H3> <Var> <P> First Stop: Tokyo </P> </Var> </H3>
     <P> Tokyo is Japan's largest and most populated city. It has been the capitol of Japan since 1868. It has over 13 million people living in just the downtown and also has the largest metropolitan area in the world. It has three main distinct districts where tourists should go: the government district, the business district, and the temple district. Each district has its own certain landmarks and icons which need to be seen to believe. This is my reccommended list of places to see.  </P>
   <Table>
         <TR> 
