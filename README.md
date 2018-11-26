@@ -36,7 +36,7 @@
         <TR>
             <TD> <P> Toyko Tower </P> </TD>
             <TD> <P> Government District </P> </TD>
-            <TD> <IMG SRC= "TT.JPG"> </TD>
+            <TD> <IMG SRC= "TT.jpg"> </TD>
                 </TR>
             <TR>
                 <TD> <P> Hachiko Crossing </P>
