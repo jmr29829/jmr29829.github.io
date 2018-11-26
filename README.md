@@ -22,7 +22,7 @@
     </OL>
     </P>
     <H3> <P> <Var> First Stop: Tokyo </Var> </P> </H3>
-    <P> Tokyo is Japan's largest and most populated city. It has been the capitol of Japan since 1868. It has over 13 million people living in just the downtown and also has the largest metropolitan area in the world. It has three main distinct districts where tourists should go: the government district, the business district, and the temple district. Each district has its own certain landmarks and icons which need to be seen to believe. This is my reccommended list of places to see.  </P>
+    <P> Tokyo is Japan's largest and most populated city. It has been the capitol of Japan since 1868. It has over 13 million people living in just the downtown and also has the largest metropolitan area in the world. It has three main distinct districts where tourists should go: the government district, the business district, and the temple district. Each district has its own certain landmarks and icons which need to be seen to believe. This is my reccommended list of places to see.  
     </div>
   <Table>
         <TR> 
@@ -46,6 +46,7 @@
                         <TD> <IMG src= "asakusa.jpg"> </TD>
                             </TR>
                         </Table>
+                    </P>
  <P> 
        <fieldset>
             <legend>Tell us about your experience at these attractions:</legend>
@@ -54,8 +55,5 @@
                 How was it: <input type="text"size=100>
         </fieldset>
                    </P>
-                 
-                        
-                     
 </body>
 </html> 
