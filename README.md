@@ -14,7 +14,7 @@
   </div>
     <P> Our Itenerary! 
     <OL> 
-        <LI> <form> <input type="button" value="Press Me" name="Tokyo" onClick=" First Stop: Tokyo " width=5/> </form> </LI>
+        <LI> <form> <input type="button" value="submit" name="Tokyo" tabindex=2 width=5/> </form> </LI>
         <LI>Kyoto</LI>
         <LI>Osaka</LI>
     </OL>
