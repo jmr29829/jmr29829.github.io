@@ -30,7 +30,20 @@
   <Table>
         <TR> 
             <TD> <TH> Name </TH> </TD>
-            <TD> <TH> 
+            <TD> <TH> Location </TH> </TD>
+            <TD> <TH> Picture </TH> <TD>
+                </TR>
+        <TR>
+            <TD> <P> Toyko Tower </P> </TD>
+            <TD> <P> Government District </P> </TD>
+            <TD> <IMG SRC= "TOKYO TOWER.JPG"> </TD>
+                </TR>
+            <TR>
+                <TD> <P> Hachiko Crossing </P>
+                <TD> <P> Business District </p> </TD>
+                    <TD> <IMG src= "Shibuya Crossing.jpg"> </TD>   
+                 
+         
              
 </body>
 </html> 
