@@ -30,8 +30,8 @@
   <Table>
         <TR> 
             <TH> Name </TH>
-            <TD> <TH> Location </TH> </TD>
-            <TD> <TH> Picture </TH> <TD>
+            <TH> Location </TH>
+            <TH> Picture </TH> 
                 </TR>
         <TR>
             <TD> <P> Toyko Tower </P> </TD>
