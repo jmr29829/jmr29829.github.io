@@ -40,8 +40,8 @@
                         <TD> <P> Asakusa Shrine </P> </TD>
                         <TD> <P> Temple district </P> </TD>
                         <TD> <IMG src= "asakusa.jpg"> </TD>
-                            </TR>
-                        </Table>
+                    </TR>
+ </Table>
                     </P>
  <P> 
        <fieldset>
