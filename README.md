@@ -11,7 +11,7 @@
   <div STYLE= "Background-color:#FF0000">
     <H1> Japan's Greatest Features </H1>
    <P> For travel information go to: <A href= "https://us.jnto.go.jp/top/index.php"> https://us.jnto.go.jp/top/index.php</A> </P>
-
+    </div>
     <P> Our Itenerary! 
     <OL> 
         <LI> <form> <input type="button" value="submit" name="Tokyo" tabindex=2 width=5/> </form> </LI>
@@ -51,7 +51,7 @@
                 How was it: <input type="text"size=100>
         </fieldset>
                     </form> </P>
-                    </div>
+                 
                         
                      
 </body>
