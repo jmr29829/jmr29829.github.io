@@ -36,7 +36,7 @@
         <TR>
             <TD> <P> Toyko Tower </P> </TD>
             <TD> <P> Government District </P> </TD>
-            <TD> <IMG SRC= "TOKYO TOWER.JPG"> </TD>
+            <TD> <IMG SRC= "TT.JPG"> </TD>
                 </TR>
             <TR>
                 <TD> <P> Hachiko Crossing </P>
@@ -46,7 +46,7 @@
                     <TR>
                         <TD> <P> Asakusa Shrine </P> </TD>
                         <TD> <P> Temple district </P> </TD>
-                        <TD> <IMG src= "Asakusa.jpg"> </TD>
+                        <TD> <IMG src= "asakusa.jpg"> </TD>
                          
                  
          
