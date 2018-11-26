@@ -3,7 +3,9 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <title> Journey to Japan </title>
-<style type="text/css">
+<style type="text/css"> Body{
+    "Background-color:#FF0000";
+    }
 </style>
 </head>
 <body>
