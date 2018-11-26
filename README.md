@@ -7,8 +7,8 @@
 </style>
 </head>
 <body>
-    text=#FFFFFF
-  <div STYLE= "Background-color:#FF0000">
+    <STYLE= "Background-color:#FF0000">
+  <div>
     <H1> Japan's Greatest Features </H1>
    <P> For travel information go to: <A href= "https://us.jnto.go.jp/top/index.php"> https://us.jnto.go.jp/top/index.php</A> </P>
   </div>
