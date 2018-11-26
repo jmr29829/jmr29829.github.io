@@ -44,14 +44,14 @@
                         <TD> <IMG src= "asakusa.jpg"> </TD>
                             </TR>
                         </Table>
- <P> <form>
+ <P> 
        <fieldset>
             <legend>Tell us about your experience at these attractions:</legend>
                 Name: <input type="text"size=10><br>
                 Location: <input type="text" size=10><br>
                 How was it: <input type="text"size=100>
         </fieldset>
-                    </form> </P>
+                   </P>
                  
                         
                      
